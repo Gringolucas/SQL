@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age BETWEEN 15 and 45; /*filtra entre lo que se le pide*/

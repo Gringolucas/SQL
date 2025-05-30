@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM users; /*saca la media de las edades*/
